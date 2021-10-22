@@ -1,1 +1,1 @@
-# Detecting-Parkinson-s-Disease
+In this Python Machine learning project, using the Python libraries XGBoost (eXtreme Gradient Boosting), scikit-learn, numpy, and pandas, I will build a model using an XGBClassifier as well as various factors to detect the presence of Parkinson's Disease. I will prepare the data, get the features and labels, scale the features, split the dataset, build an XGBClassifier, and predict values for test data and calculate the accuracy of the model.
